@@ -1,7 +1,7 @@
 //############################################################################################################################################################################
     // DATE DE MISE A JOURS
-      char DateMiseAJours[]  = "14/06/16";   // 15H30
-      char VersionProgramme[]  = "V1.6";     // Etalonage LuxMetre
+      char DateMiseAJours[]  = "14/10/16";   // 15H30
+      char VersionProgramme[]  = "V2.0";     //  Publication sur Git, passage a version 2.0
       
     // librairies Ecran I2C 0.96' 128*64
       #include <Wire.h>                      // 128*64 On dispose de 8 lignes de 21 caractères avec la fonte ASCII-standard 5x7  
