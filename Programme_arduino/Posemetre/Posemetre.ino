@@ -69,7 +69,7 @@
       int   tableauAffichageS[] = { 8000,    4000,     2000,     1000,   500,    250,    125,    60,    30,    15,    8,    4,    2,   1, 2, 4, 8};
       int   nombreDeValeursS = 17;
       int   CaseTableauAffichageS=0;
-      float S = 0.0000;                     // S est le temps d'obtiration CALCULE PAR FORMULE:  //  S = (pow(A, 2))/(pow(2, ILs))
+      float S = 0.0000;                     // S est le temps d'obturation CALCULE PAR FORMULE:  //  S = (pow(A, 2))/(pow(2, ILs))
       
       int Sstenope = 0;
       
